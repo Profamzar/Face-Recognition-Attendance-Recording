@@ -10,3 +10,4 @@ Using screen recording to detect faces and generate attendance list.
 4. Try google CR7 faces
 5. CSV generated
 
+###### Disclaimer: Common creative copyright images were used throughout this simulation testing.
